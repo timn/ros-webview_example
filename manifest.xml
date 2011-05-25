@@ -1,0 +1,14 @@
+<package>
+  <description brief="webview_example">
+    ROS example for providing information via the rosfawkes webview
+    web interface.
+  </description>
+  <author>Tim Niemueller</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/webview_example</url>
+  <depend package="roscpp"/>
+  <depend package="webview_msgs"/>
+</package>
+
+
